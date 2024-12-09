@@ -1,2 +1,2 @@
 # UniFiHotspot
-https://511c-197-250-204-68.ngrok-free.app/
+https://511c-197-2dggsgs50-204-68.ngrok-free.app/
